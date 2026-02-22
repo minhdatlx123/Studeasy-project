@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+/* === THEME CHỦ ĐẠO === */
+/* Định nghĩa màu primary cho toàn app (dùng class như bg-primary, text-primary) */
+@theme {
+  --font-roboto: "Roboto", sans-serif; 
+  --color-primary: #7F00FF;          /* tím chủ đạo */
+  --color-primary-dark: #6d28d9;     /* hover/active đậm */
+  --color-primary-light: #a855f7;    /* hover nhẹ/accent */
+  --color-ivory: #FDFDFD;            /* trắng ngà nền */
+}
+  
+  /* Optional: Dark mode cơ bản (nếu sau này mày thêm toggle) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #111111;     /* Ví dụ dark bg */
+  }
+}
+
+/* Base styles cho body (nền trắng ngà, text tối) */
+@layer base {
+  body {
+    @apply bg-ivory text-gray-900;
+  }
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
