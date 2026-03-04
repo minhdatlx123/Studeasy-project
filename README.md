@@ -53,6 +53,8 @@ Studeasy is a modern e-learning platform where instructors can create and sell c
 ---
 
 ## 📁 **Project Structure**
+
+```
 src/
 ├── components/
 │   ├── common/                      # Reusable components
@@ -78,7 +80,7 @@ src/
 ├── main.tsx                         # Application entry point
 ├── App.css                          # App-level styles
 └── index.css                        # Global styles
-
+```
 
 ---
 
