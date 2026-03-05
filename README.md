@@ -1,6 +1,6 @@
 # 🎓 Studeasy - Online Learning Platform
 
-Studeasy is a modern e-learning platform where instructors can create and sell courses, and learners can discover, enroll, and learn from thousands of quality courses. The platform features a peer-review system, refund policy, and self-issued certificates.
+Studeasy is a modern e-learning platform where instructors can create and sell courses and learners can discover, enroll and learn from thousands of quality courses. The platform features a peer-review system, refund policy and self-issued certificates.
 ---------------------------------------------------------------------------------
  ⚠️**NOTICE**⚠️
   This project is currently in **Phase 0 (UI Mockup)**.
