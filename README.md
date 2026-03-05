@@ -10,7 +10,7 @@ Studeasy is a modern e-learning platform where instructors can create and sell c
 
 ## 🛠️ **Tech Stack**
 
-- **Frontend Framework**: React 19.2.0
+- **Frontend Lb/Fw**: React 19.2.0
 - **Language**: TypeScript
 - **Build Tool**: Vite 7.3.1
 - **Styling**: Tailwind CSS 4.2.0
